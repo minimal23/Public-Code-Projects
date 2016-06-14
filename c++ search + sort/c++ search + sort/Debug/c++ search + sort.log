@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\code\c++ search + sort\c++ search + sort\source.cpp(14): warning C4091: 'typedef ': ignored on left of 'sv' when no variable is declared
+d:\code\c++ search + sort\c++ search + sort\source.cpp(81): warning C4101: 't': unreferenced local variable
+  c++ search + sort.vcxproj -> D:\code\c++ search + sort\Debug\c++ search + sort.exe
+  c++ search + sort.vcxproj -> D:\code\c++ search + sort\Debug\c++ search + sort.pdb (Partial PDB)

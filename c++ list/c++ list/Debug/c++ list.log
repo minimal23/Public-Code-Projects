@@ -1,0 +1,8 @@
+﻿  cQueue.cpp
+d:\code\c++ list\c++ list\cqueue.cpp(13): warning C4091: 'typedef ': ignored on left of 'sach' when no variable is declared
+d:\code\c++ list\c++ list\cqueue.cpp(21): warning C4091: 'typedef ': ignored on left of 'cqueue' when no variable is declared
+d:\code\c++ list\c++ list\cqueue.cpp(65): warning C4715: 'Pop': not all control paths return a value
+d:\code\c++ list\c++ list\cqueue.cpp(83): warning C4715: 'GetRear': not all control paths return a value
+d:\code\c++ list\c++ list\cqueue.cpp(74): warning C4715: 'GetFront': not all control paths return a value
+  c++ list.vcxproj -> D:\code\c++ list\Debug\c++ list.exe
+  c++ list.vcxproj -> D:\code\c++ list\Debug\c++ list.pdb (Partial PDB)

@@ -1,0 +1,18 @@
+D:\code\dx game demo\dx game demo\bin\x86\Debug\dx game demo.exe.config
+D:\code\dx game demo\dx game demo\obj\x86\Debug\dx game demo.csprojResolveAssemblyReference.cache
+D:\code\dx game demo\dx game demo\obj\x86\Debug\dx_game_demo.Form1.resources
+D:\code\dx game demo\dx game demo\obj\x86\Debug\dx_game_demo.Properties.Resources.resources
+D:\code\dx game demo\dx game demo\obj\x86\Debug\dx game demo.csproj.GenerateResource.Cache
+D:\code\dx game demo\dx game demo\bin\x86\Debug\dx game demo.exe
+D:\code\dx game demo\dx game demo\bin\x86\Debug\dx game demo.pdb
+D:\code\dx game demo\dx game demo\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\code\dx game demo\dx game demo\bin\x86\Debug\Microsoft.DirectX.Diagnostics.dll
+D:\code\dx game demo\dx game demo\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+D:\code\dx game demo\dx game demo\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\code\dx game demo\dx game demo\bin\x86\Debug\Microsoft.DirectX.DirectDraw.dll
+D:\code\dx game demo\dx game demo\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+D:\code\dx game demo\dx game demo\bin\x86\Debug\Microsoft.DirectX.DirectPlay.dll
+D:\code\dx game demo\dx game demo\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+D:\code\dx game demo\dx game demo\bin\x86\Debug\Microsoft.DirectX.dll
+D:\code\dx game demo\dx game demo\obj\x86\Debug\dx game demo.exe
+D:\code\dx game demo\dx game demo\obj\x86\Debug\dx game demo.pdb

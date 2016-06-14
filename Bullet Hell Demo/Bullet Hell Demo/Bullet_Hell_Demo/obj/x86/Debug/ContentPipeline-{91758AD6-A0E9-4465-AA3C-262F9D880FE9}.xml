@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ShipR.png</Source>
+      <Name>ShipR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\code\Bullet Hell Demo\Bullet Hell Demo\Bullet_Hell_Demo\bin\x86\Debug\Content\ShipR.xnb</Output>
+      <Time>2016-06-05T13:37:58.0405214+07:00</Time>
+    </Item>
+    <Item>
+      <Source>bg.png</Source>
+      <Name>bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\code\Bullet Hell Demo\Bullet Hell Demo\Bullet_Hell_Demo\bin\x86\Debug\Content\bg.xnb</Output>
+      <Time>2016-06-05T14:11:04.5966589+07:00</Time>
+    </Item>
+    <Item>
+      <Source>playerbullet.png</Source>
+      <Name>playerbullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\code\Bullet Hell Demo\Bullet Hell Demo\Bullet_Hell_Demo\bin\x86\Debug\Content\playerbullet.xnb</Output>
+      <Time>2016-06-05T15:07:23.3871519+07:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\code\Bullet Hell Demo\Bullet Hell Demo\Bullet_Hell_Demo\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2016-06-06T13:06:22.7355415+07:00</Time>
+    </Item>
+    <Item>
+      <Source>enemybullet.png</Source>
+      <Name>enemybullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\code\Bullet Hell Demo\Bullet Hell Demo\Bullet_Hell_Demo\bin\x86\Debug\Content\enemybullet.xnb</Output>
+      <Time>2016-06-06T13:06:22.7455482+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{91758AD6-A0E9-4465-AA3C-262F9D880FE9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\code\Bullet Hell Demo\Bullet Hell Demo\Bullet_Hell_DemoContent\</RootDirectory>
+      <LoggerRootDirectory>D:\code\Bullet Hell Demo\Bullet Hell Demo\Bullet_Hell_Demo\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\code\Bullet Hell Demo\Bullet Hell Demo\Bullet_Hell_Demo\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\code\Bullet Hell Demo\Bullet Hell Demo\Bullet_Hell_Demo\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-04-02T20:51:19.4184939+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

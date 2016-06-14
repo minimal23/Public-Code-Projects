@@ -1,0 +1,5 @@
+Content\ShipR.xnb
+Content\bg.xnb
+Content\playerbullet.xnb
+Content\enemy.xnb
+Content\enemybullet.xnb

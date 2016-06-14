@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\code\c++(file)\c++(file)\source.cpp(14): warning C4091: 'typedef ': ignored on left of 'hanghoa' when no variable is declared
+  c++(file).vcxproj -> D:\code\c++(file)\Debug\c++(file).exe
+  c++(file).vcxproj -> D:\code\c++(file)\Debug\c++(file).pdb (Partial PDB)
