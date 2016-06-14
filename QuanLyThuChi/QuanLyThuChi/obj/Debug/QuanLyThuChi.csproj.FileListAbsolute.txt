@@ -1,0 +1,12 @@
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\bin\Debug\QuanLyThuChi.exe.config
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\bin\Debug\QuanLyThuChi.exe
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\bin\Debug\QuanLyThuChi.pdb
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.csprojResolveAssemblyReference.cache
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.LoginForm.resources
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.Properties.Resources.resources
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.RegisterForm.resources
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.csproj.GenerateResource.Cache
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.exe
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.pdb
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.MainForm.resources
+C:\Users\minim_000\Documents\Visual Studio 2013\Projects\QuanLyThuChi\QuanLyThuChi\obj\Debug\QuanLyThuChi.InputData.resources
